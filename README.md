@@ -56,8 +56,8 @@ Sou apaixonado por tecnologia e busco constantemente evoluir como desenvolvedor.
 <br/>
 
 ## 📊 Estatísticas
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=therealjao1&show_icons=true&theme=shadow_red&include_all_commits=true&locale=pt-br&cache_seconds=0)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=therealjao1&layout=compact&theme=shadow_red&include_all_commits=true&cache_seconds=0)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=therealjao1&show_icons=true&theme=shadow_red&include_all_commits=true&locale=pt-br&cache_seconds=0)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=therealjao1&layout=compact&theme=shadow_red&include_all_commits=true&cache_seconds=0)
 
 
 
