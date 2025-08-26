@@ -4,7 +4,7 @@
 
 Olá! Me chamo João Arevalo Acerbi, tenho 19 anos e sou natural de Louveira/SP. Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP, com previsão de conclusão para 2026.
 
-Sou apaixonado por tecnologia e busco constantemente evoluir como desenvolvedor. Tenho conhecimentos em Python (Curso em Vídeo – Gustavo Guanabara), Excel intermediário e atualmente estou cursando JavaScript e TypeScript do básico ao avançado (Udemy). Sempre procuro aplicar na prática o que aprendo e acredito no poder da tecnologia para transformar vidas e negócios.
+Sou apaixonado por tecnologia e busco constantemente evoluir como desenvolvedor. Tenho conhecimentos em Python Intermediário, Excel intermediário e atualmente estou cursando HTML, CSS, JavaScript e C.
 
 🚀 Quero crescer na área de desenvolvimento e compartilhar meu aprendizado com a comunidade tech.
 
@@ -36,11 +36,11 @@ Sou apaixonado por tecnologia e busco constantemente evoluir como desenvolvedor.
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
 
 <img 
